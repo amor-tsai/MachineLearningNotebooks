@@ -9,3 +9,4 @@ devkit
 data/mask_data
 .vscode/
 *.icloud
+.code-workspace
